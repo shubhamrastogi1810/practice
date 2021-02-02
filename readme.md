@@ -1,1 +1,1 @@
-GitHub Practice Reop
+GitHub Practice Repo
